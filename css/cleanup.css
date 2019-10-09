@@ -3,11 +3,11 @@
   display: none;
 }
 
-body #wall #tag-2 {
+body #wall #tag-2 { /*gets rid of tag 2, don't know what body is*/
   display: none;
 }
 
-#wall #tag-3.slick.wicked {
+#wall #tag-3.slick.wicked { /* gets rid of tag 3*/
   display: none;
 }
 
