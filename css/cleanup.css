@@ -11,6 +11,6 @@ body #wall #tag-2 {
   display: none;
 }
 
-.parent {
+.parent { /*deletes most things on here like 4, 5, 6, 7*/
   display: none;
 }
